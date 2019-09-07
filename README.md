@@ -10,7 +10,7 @@ Formula tu/s pregunta/s de investigación. Ten en cuenta que tu/s pregunta/s deb
 Mi/s pregunta/s de investigación es/son la/s siguiente/s:
 
 
-Pregunta 1. ¿Las hormigas se encuentran en mayor concencentración en areas aseadas y sin basura o en zonas donde hay zafacones ?
+Pregunta 1. ¿Las hormigas se encuentran en mayor concentración en áreas aseadas y sin basura o en zonas donde hay zafacones ?
 
 
 Pregunta 2. ¿Se relaciona la falta de vegetación herbácea con la abundancia de las hormigas ?
